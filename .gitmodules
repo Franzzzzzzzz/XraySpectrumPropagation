@@ -1,0 +1,3 @@
+[submodule "spekpy_release"]
+	path = spekpy_release
+	url = https://bitbucket.org/spekpy/spekpy_release.git
